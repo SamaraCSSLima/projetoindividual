@@ -1,0 +1,26 @@
+img{
+            display: block;
+            margin: 0px auto;
+			margin-top: 200px;
+			width:180px;
+			height:180px;
+        }
+
+        body
+        {
+			font-family:Dancing script;
+			font-size:30px;
+			color: darkgoldenrod;
+            background-image: url("imagens/fundo.jpg");
+        background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+	display:flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	
+}
+a:link{color: darkgoldenrod;}
+a:visited{color:black;}
+	
